@@ -1,4 +1,4 @@
-from dispositivos import Notebook, Smartphone
+from router1.dispositivos import Notebook, Smartphone
 
 class Roteador:
     
